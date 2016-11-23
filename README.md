@@ -6,7 +6,7 @@ A prova consiste num cadastro de contatos com nome, telefone e e-mail.
 
 **Passos da prova**
 * Faça o clone do projeto: "git clone https://github.com/dedecastrobr/prova_ps.git"
-* Crie uma base de dados chamada prova_ps e importe o aruqivo dados_prova.sql para a mesma;
+* Crie uma base de dados chamada prova_ps e importe o arquivo dados_prova.sql para a mesma;
 * Efetue as alterações referentes às questões;
 * Adicione suas alterações ao commit: "git add ." ;
 * Comite suas alterações: git commmit -m "Respostas da prova.";
@@ -20,10 +20,10 @@ Notas:
 # QUESTÕES
 
 **Questão 01 (2,0)**
-Melhore a aparência da aplicação, aplicando estilos aos botões (Vizualizar, Editar e Excluir) e faça com que o "formContato.php" ao ser chamado pelo link "Editar", apareça "dentro" do programa, com o cabeçalho "Cadastro de Contatos" acima;
+Melhore a aparência da aplicação, aplicando estilos aos botões (Visualizar, Editar e Excluir) e faça com que o "formContato.php" ao ser chamado pelo link "Editar", apareça "dentro" do programa, com o cabeçalho "Cadastro de Contatos" acima;
 
 **Questão 02 (2,0)**
-Implemente a tela de "Vizualizar". Ao clicar no link, o usuário deve ver o contato e ter uma opção (link) para voltar para tela inicial (index.php). 
+Implemente a tela de "Visualizar". Ao clicar no link, o usuário deve ver o contato e ter uma opção (link) para voltar para tela inicial (index.php). 
 
 **Questão 03 (1,0)**
 Transforme os campos onde aparece o e-mail do contato (Visualizar e Index) em links que remetam ao endereço do contato;
